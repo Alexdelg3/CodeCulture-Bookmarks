@@ -1,4 +1,4 @@
-# CodeCulture-Bookmarks
+# codeculture-bookmarks
 Code Culture's Bookmarks page
 
 Kevin Camacho - Frontend Implementation
